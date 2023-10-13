@@ -1,0 +1,1 @@
+vultr-cli static binary
